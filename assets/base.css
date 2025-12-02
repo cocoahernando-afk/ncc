@@ -3598,6 +3598,6 @@ details-disclosure > details {
 
 /* This CSS block applies a green color to all heading elements (h1 through h6), using !important to override other color declarations. */
 h1, h2, h3, h4, h5, h6 {
-  color: red !important;
+  color: yellow !important;
 }
 
